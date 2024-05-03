@@ -16,7 +16,7 @@
 
 <h2 align="center"> :mailbox: Reach me out</h2>
 <br />
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/mirhussainmurtaza/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/mirhussainmurtaza)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/_mir_hussain_)
+
 <br />
 
 
@@ -27,6 +27,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,cpp,nextjs" /><br>
 </div>
 <br/>
+
+![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=csshovan&theme=react-dark)
+
 
 
 
