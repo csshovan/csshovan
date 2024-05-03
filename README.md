@@ -53,16 +53,16 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,cpp,nextjs" /><br>
 </div>
 
+<br/>
 
 ![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=csshovan&theme=react-dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csshovan&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
 
 
-![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=csshovan&theme=react-dark)
+
+
 
 
 
