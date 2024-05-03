@@ -52,9 +52,9 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,cpp,nextjs" /><br>
 </div>
-<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&background=0D1117&stroke=0D1117&fire=FF1CF7" alt="csshovan" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csshovan&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
 
