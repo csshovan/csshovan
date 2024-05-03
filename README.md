@@ -53,8 +53,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,cpp,nextjs" /><br>
 </div>
 
+<br/>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csshovan&show_icons=true&locale=en&theme=tokyonight" alt="csshovan" /></p>
 
