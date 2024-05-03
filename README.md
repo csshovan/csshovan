@@ -14,5 +14,14 @@
 </p>
 
 
+<h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,cpp,nextjs" /><br>
+</div>
+<br/>
+
+
 
 
