@@ -6,7 +6,7 @@
 
 <br/>
 
- <h2 align="center">## :chart_with_upwards_trend: Current Stats</h2>
+ <h2 align="center"> :chart_with_upwards_trend: Current Stats</h2>
 
 <br />
 <p align="center">
