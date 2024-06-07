@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-![](https://komarev.com/ghpvc/?username=shvnsaha&color=fb4362)
+![](https://komarev.com/ghpvc/?username=shvnsaha&color=00008B)
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/csshovan?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
